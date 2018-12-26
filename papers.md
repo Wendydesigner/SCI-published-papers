@@ -8,6 +8,6 @@ Wen Sun†, **Yan Wen†**, Raweewan Thiramanas†, et al.[Red‐Light‐Control
 
 Jianquan Qi, Juanxiong Chang, **Yan Wen**, et al.[A pure organic nanocomposite of DIPAB/EP with strong ferroelectricity](https://doi.org/10.1007/s10854-018-9532-z).J Mater Sci: Mater Electron (2018) 29: 14003. 
 
-Wei Zhang, **Yan Wen**, et al.Near-Infrared AIEgens as Transformers to Enhance Tumor Treatment Efficacy with Controllable Self-Assembled Carrier-Free Nanodrug(under review).Biomaterials,2018 **(IF=8.806)**
+Wei Zhang, **Yan Wen**, et al. Near-infrared [AIEgens as transformers to enhance tumor treatment efficacy with controllable self-assembled redox-responsive carrier-free nanodrug, Biomaterials](https://doi.org/10.1016/j.biomaterials.2018.12.007), Volume 193, 2019,.Biomaterials **(IF=8.806)**
 
 Ningqiang Gong†, Xiaowei Ma†, Xiaoxia Ye, Qunfang Zhou, Xiaoli Tan, Shengkun Yao, **Yan Wen**, et al. Carbon dot-supported atomically-dispersed gold (CAT-g) as a mitochondrial oxidative stress amplifier for cancer treatment.(under review) Nature Nanotechnology, 2018 **(IF=37.490)**
